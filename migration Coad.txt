@@ -1,0 +1,3 @@
+enable-migrations -ContextTypeName ApplicationDbContext -MigrationsDirectory "Migrations\Security"
+add-migration -ConfigurationTypeName FashionBangla.Migrations.Security.Configuration 'UserDb'
+update-database
