@@ -1,0 +1,81 @@
+﻿@model IEnumerable<FashionBangla.Models.CartItemVM>
+
+@{
+    ViewBag.Title = "Cart";
+}
+<div class="row ">
+    <div class="col-md-12">
+        <div class="m-cart">
+            <h2>Cart</h2>
+            <table class="table table-striped">
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProductName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.UnitPrice)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Quantity)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Amount)
+                    </th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.UnitPrice)
+                        </td>
+                        <td>  
+                            <a href="#" class="qty" data-pk="@item.CartItemId" data-url="@Url.Action("UpdateQty", "Home")" data-type="text" data-mode="inline"  >@Html.DisplayFor(modelItem => item.Quantity)</a>
+                        </td>
+                        <td id="subtotal_@item.CartItemId">
+                            @Html.DisplayFor(modelItem => item.Amount)
+                        </td>
+                    </tr>
+                }
+                <tr>
+                   <td colspan="4" align="right"><strong>Total: <span id="total">@ViewBag.Total</span></strong></td>
+                </tr>
+            </table>
+            <div class="text-right">
+                @Html.ActionLink("Continue Shoping", "Index", "Home", new { }, new { @class = "btn btn-success" }) &nbsp;
+                @Html.ActionLink("Check Out", "CheckOut", "Home", new { }, new { @class = "btn btn-primary" })
+            </div>
+        </div>
+    </div>
+</div>
+@section styles{
+<link href="~/Content/bootstrap3-editable/css/bootstrap-editable.css" rel="stylesheet" />
+}
+@section scripts{
+<script src="~/Scripts/bootstrap3-editable/js/bootstrap-editable.js"></script>
+   <script>
+       $(document).ready(function () {
+           $(".qty").editable({
+               validate: function (value) {
+                   if ($.trim(value) == '') {
+                       return 'This field is required';
+                   }
+                   if (Number($.trim(value)) < 0) {
+                       return 'At least 1 qty. required';
+                   }
+               },
+               success: function(response, newValue) {
+                   if(!response.success) return response.msg;
+                   console.log(response.msg);
+                   $("#subtotal_" + response.msg.pk).html(response.msg.subtotal.toFixed(2));
+                   $("#total").html(response.msg.total.toFixed(2));
+               }
+           });
+       });
+    </script>
+}
+
+

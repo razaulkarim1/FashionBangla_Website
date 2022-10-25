@@ -1,0 +1,65 @@
+﻿@model IEnumerable<FashionBangla.Models.Product>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-md-3">
+        <ul class="nav nav-pills nav-stacked m-bgcolor">
+            <li>@Html.ActionLink("Men", "Index", "Products", new { Id = 1 }, new { })</li>
+            <li>@Html.ActionLink("Women", "Index", "Products", new { Id = 2 }, new { })</li>
+            <li>@Html.ActionLink("Kids", "Index", "Products", new { Id = 3 }, new { })</li>
+            <li>@Html.ActionLink("Home Decor", "Index", "Products", new { Id = 4 }, new { })</li>
+            <li>@Html.ActionLink("Wedding", "Index", "Products", new { Id = 5 }, new { })</li>
+        </ul>
+    </div>
+    <div class="col-md-9">
+        <table class="table table-striped ">
+
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>
+                        <img src="@Url.Content("~/Images/"+item.Category.CategoryName+"/"+ item.PictureFile)" style="width:200px" />
+                    </td>
+                    <td>
+                        <h3>@Html.DisplayFor(modelItem => item.ProductName)</h3><br />
+                        <h4>TK/ @Html.DisplayFor(modelItem => item.UnitPrice)</h4>
+                        @Html.ActionLink("Details", "Details", new { id = item.ProductId }, new { @class = "btn btn-success" })
+                    </td>
+                    <td>
+                        <div style="width:200px;">
+                            @Html.DisplayFor(modelItem => item.Description)
+                        </div>
+                    </td>
+                   
+
+                </tr>
+            }
+
+        </table>
+        <nav aria-label="Page navigation" class="text-right">
+
+            <ul class="pagination">
+                @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    if (i == ViewBag.CurrentPage)
+                    { 
+                     <li class="active">
+                        @Html.ActionLink(i.ToString(), "Index", "Products", new {Id=ViewBag.id, page = i }, new { })
+                    </li>
+                    }
+                    else
+                    { 
+                     <li>
+                        @Html.ActionLink(i.ToString(), "Index", "Products", new { Id = ViewBag.id, page = i }, new { })
+                    </li>
+                    }
+                }
+            </ul>
+        </nav>
+    </div>
+</div>

@@ -1,0 +1,41 @@
+﻿@model FashionBangla.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>@Html.DisplayFor(model => model.ProductName)</h2>
+<div class="row">
+    <div class="col-md-3">
+        <ul class="nav nav-pills nav-stacked m-bgcolor">
+            <li>@Html.ActionLink("Men", "Index", "Products", new { Id = 1 }, new { })</li>
+            <li>@Html.ActionLink("Women", "Index", "Products", new { Id = 2 }, new { })</li>
+            <li>@Html.ActionLink("Kids", "Index", "Products", new { Id = 3 }, new { })</li>
+            <li>@Html.ActionLink("Home Decor", "Index", "Products", new { Id = 4 }, new { })</li>
+            <li>@Html.ActionLink("Wedding", "Index", "Products", new { Id = 5 }, new { })</li>
+        </ul>
+    </div>
+    <div class="col-md-5">
+        <img src="@Url.Content("~/Images/" + Model.Category.CategoryName + "/" + Model.PictureFile)" style="width:400px" class="img-thumbnail" />
+    </div>
+    <div class="col-md-4 m-bgcolor">
+        <div>
+            <h2>Category Name:  @Html.DisplayFor(model => model.Category.CategoryName)</h2>
+            <h3>Product Name: @Html.DisplayFor(model => model.ProductName) </h3>
+            <p>
+                @Html.DisplayFor(model => model.Description)
+            </p>
+            <div>
+                Unit Price: Tk. @Html.DisplayFor(model => model.UnitPrice)
+            </div>
+            <div>
+                <p>
+                    @Html.ActionLink("Add To Cart", "Cart","Home", new { id = Model.ProductId}, new { @class = "btn btn-success" })
+                    @Html.ActionLink("Back to List", "Index", new { }, new { @class = "btn btn-success" })
+                </p>
+            </div>
+        </div>
+
+    </div>
+</div>
+

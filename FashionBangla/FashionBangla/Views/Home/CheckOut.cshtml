@@ -1,0 +1,87 @@
+﻿@model FashionBangla.Models.CustomerVM
+
+@{
+    ViewBag.Title = "CheckOut";
+}
+
+<h2>CheckOut</h2>
+@if (ViewBag.Complete == false)
+{
+    <div class="alert alert-warning">
+        <h2>Customer Information missing</h2>
+        <div>Fill in information and Click update</div>
+    </div>
+}
+else
+{
+    <div class="alert alert-info">
+        <h2>Check your information</h2>
+        <div>Change your information and Click update</div>
+        <div>To proceed with current information click Confirm.</div>
+    </div>
+}
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        
+        <hr />
+        @Html.ValidationSummary(true)
+        <div class="m-cart">
+            <h4>Customer Information:</h4>
+            <hr />
+            @Html.HiddenFor(model=> model.Id)
+
+            <div class="form-group">
+               
+                <label class="control-label col-md-2">Full Name</label>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CustomerName)
+                    @Html.ValidationMessageFor(model => model.CustomerName)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Address, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Address)
+                    @Html.ValidationMessageFor(model => model.Address)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-md-2">Credit Card Number:</label>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CCNumber)
+                    @Html.ValidationMessageFor(model => model.CCNumber)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label col-md-2">Cr. Card Expires</label>
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CCExpire)
+                    @Html.ValidationMessageFor(model => model.CCExpire)
+                </div>
+            </div>
+
+            <div class="form-group text-right">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Update" class="btn btn-primary" /> &nbsp;
+                    @if(ViewBag.Complete == true)
+                    {
+                            @Html.ActionLink("Confirm Order", "Confirm", "Home", new { }, new { @class = "btn btn-default" })
+                    }
+                    else
+                    {
+                            @Html.ActionLink("Confirm Order", "Confirm", "Home", new { }, new { @class = "btn btn-default", disabled="disabled" })
+                    }
+
+                </div>
+            </div>
+        </div>
+       
+    </div>
+}
+

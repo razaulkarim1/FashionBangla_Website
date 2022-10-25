@@ -1,0 +1,117 @@
+﻿
+.m-cart {
+    background-color:#f3f3f3;
+    padding:30px;
+    border-radius:15px;
+    margin-top:30px;
+}
+.m-menu ul {
+list-style:none;
+margin-top:10px;
+}
+.m-menu ul li{
+ display:inline-block;
+ padding-left:20px;
+}
+.m-menu ul li a{
+ font-size:18px;
+ color:#818181;
+ text-decoration:none
+}
+.m-menu ul li a:hover{
+ font-size:18px;
+ color:#a4d7a2;
+ text-decoration:none
+
+}
+.m-box {
+    height: 329px;
+    width: 245px;
+}
+
+.m-dropdown {
+    width: 400px;
+}
+
+.m-footer ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+    .m-footer ul li {
+        padding-bottom: 10px;
+    }
+
+        .m-footer ul li a {
+            text-decoration: none;
+            color: #656565;
+        }
+
+            .m-footer ul li a:hover {
+                text-decoration: none;
+                color: #c8c8c8;
+            }
+
+.m-black {
+    background-color: black;
+    color: #656565;
+    padding:30px;
+}
+
+.m-bgcolor {
+    background-color: #f3f3f3;
+    padding: 16px;
+}
+
+.m-bgcolorb {
+    background-color: #f3f3f3;
+    color: #656565;
+    padding-top: 30px;
+}
+
+.m-font {
+    font-variant-caps: all-petite-caps;
+}
+
+body {
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+/* styles for validation helpers */
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}

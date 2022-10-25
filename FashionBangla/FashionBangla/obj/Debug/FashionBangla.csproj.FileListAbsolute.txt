@@ -1,0 +1,399 @@
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\FashionBangla.dll.config
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\FashionBangla.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\FashionBangla.pdb
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Antlr3.Runtime.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\EntityFramework.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Newtonsoft.Json.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Owin.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.Helpers.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.Mvc.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.Optimization.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.Razor.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.WebPages.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\WebGrease.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\EntityFramework.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.Helpers.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.Mvc.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.Optimization.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.Razor.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.WebPages.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Newtonsoft.Json.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Antlr3.Runtime.pdb
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csprojResolveAssemblyReference.cache
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\obj\Debug\FashionBangla.dll
+C:\Users\Sohel\Desktop\1207499\FashionBangla\FashionBangla\obj\Debug\FashionBangla.pdb
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.dll.config
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.pdb
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Antlr3.Runtime.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Web.Infrastructure.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Newtonsoft.Json.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Owin.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Helpers.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Mvc.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Optimization.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Razor.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\WebGrease.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Helpers.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Mvc.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Optimization.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Razor.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Newtonsoft.Json.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Antlr3.Runtime.pdb
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csprojResolveAssemblyReference.cache
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.Migrations.Security.UserDb.resources
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.GenerateResource.Cache
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.dll
+H:\M8_Project\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.pdb
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.dll.config
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.pdb
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Antlr3.Runtime.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Web.Infrastructure.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Newtonsoft.Json.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Owin.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Helpers.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Mvc.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Optimization.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Razor.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\WebGrease.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Helpers.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Mvc.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Optimization.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Razor.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Newtonsoft.Json.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Antlr3.Runtime.pdb
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.Migrations.Security.UserDb.resources
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.GenerateResource.Cache
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.dll
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.pdb
+G:\shel\Project MVC M7\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csprojResolveAssemblyReference.cache
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.dll.config
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.pdb
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Antlr3.Runtime.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Web.Infrastructure.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Newtonsoft.Json.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Owin.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Helpers.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Mvc.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Optimization.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Razor.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\WebGrease.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Helpers.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Mvc.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Optimization.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Razor.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Newtonsoft.Json.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Antlr3.Runtime.pdb
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.Migrations.Security.UserDb.resources
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.GenerateResource.Cache
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.dll
+D:\ESAD_30A\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.pdb
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.dll.config
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\FashionBangla.pdb
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Antlr3.Runtime.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Newtonsoft.Json.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Owin.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Helpers.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Mvc.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Optimization.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Razor.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\WebGrease.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Helpers.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Mvc.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Optimization.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.Razor.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Newtonsoft.Json.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Antlr3.Runtime.pdb
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.Migrations.Security.UserDb.resources
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.GenerateResource.Cache
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.dll
+C:\Users\Sohel\Desktop\Project MVC M7\FashionBangla\FashionBangla\obj\Debug\FashionBangla.pdb
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\FashionBangla.dll.config
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\FashionBangla.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\FashionBangla.pdb
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Antlr3.Runtime.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\EntityFramework.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Web.Infrastructure.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Newtonsoft.Json.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Owin.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.Helpers.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.Mvc.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.Optimization.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.Razor.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\WebGrease.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\EntityFramework.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.Helpers.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.Mvc.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.Optimization.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.Razor.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Newtonsoft.Json.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Antlr3.Runtime.pdb
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.AssemblyReference.cache
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.Migrations.Security.UserDb.resources
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.GenerateResource.cache
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.CoreCompileInputs.cache
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.CopyComplete
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.dll
+H:\PGD_01\M_06_MVC\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.pdb
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\FashionBangla.dll.config
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\FashionBangla.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\FashionBangla.pdb
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Antlr3.Runtime.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\EntityFramework.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Web.Infrastructure.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Newtonsoft.Json.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Owin.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.Helpers.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.Mvc.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.Optimization.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.Razor.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\WebGrease.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\EntityFramework.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\EntityFramework.SqlServer.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.Helpers.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.Mvc.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.Optimization.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.Razor.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.Deployment.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\System.Web.WebPages.Razor.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Newtonsoft.Json.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Antlr3.Runtime.pdb
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Google.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.AssemblyReference.cache
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.Migrations.Security.UserDb.resources
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.GenerateResource.cache
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.CoreCompileInputs.cache
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.csproj.CopyComplete
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.dll
+G:\Education\Project\Class_014\FashionBangla\FashionBangla\obj\Debug\FashionBangla.pdb

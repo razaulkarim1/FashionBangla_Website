@@ -1,0 +1,91 @@
+﻿@model IEnumerable<FashionBangla.Models.Product>
+
+@{
+    ViewBag.Title = "ProductList";
+}
+
+<div class="row">
+    <div class="col-md-2 m-bgcolorb" style="padding:20px 10px 200px 10px">
+        <p><span class="glyphicon glyphicon-user"></span>&nbsp; Admin Pannel</p>
+        <hr />
+        @*<h4>@Html.ActionLink("Hello " + User.Identity.GetUserName() + "!", "Manage", "Account", routeValues: null, htmlAttributes: new { title = "Manage" })</h4>*@
+        <span>@Html.ActionLink("Create New Member", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</span>
+    </div>
+    <div class="col-md-10">
+
+
+        <p>
+            @Html.ActionLink("Create New", "Create", new { }, new { @class = "btn btn-success" })
+        </p>
+        <h2>ProductList</h2>
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Category.CategoryName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ProductName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.UnitPrice)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PictureFile)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UnitPrice)
+                    </td>
+                    <td>
+                        <div style="width:200px;">
+                            @Html.DisplayFor(modelItem => item.Description)
+                        </div>
+                    </td>
+                    <td>
+                        <img src="@Url.Content("~/Images/"+item.Category.CategoryName+"/"+ item.PictureFile)" style="width:80px" />
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ProductId }, new { @class = "btn btn-default btn-sm" })
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ProductId }, new { @class = "btn btn-default btn-sm" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+        <nav aria-label="Page navigation" class="text-right">
+
+            <ul class="pagination">
+                @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                {
+                    if (i == ViewBag.CurrentPage)
+                    {
+                        <li class="active">
+                            @Html.ActionLink(i.ToString(), "Index", "Admin", new { page = i }, new { })
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            @Html.ActionLink(i.ToString(), "Index", "Admin", new { page = i }, new { })
+                        </li>
+                    }
+                }
+            </ul>
+        </nav>
+    </div>
+</div>
+
